@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /folder/
+Disallow: /folder2/
+Disallow: /folder3/ #exemplo linha com comentario
+Allow: /folder3/aquivo liberado
